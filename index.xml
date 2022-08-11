@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ExampleSite</title>
-    <link>https://71tong.github.io/Myblog/</link>
+    <link>http://71tong.github.io/Myblog/</link>
     <description>Recent content on ExampleSite</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 11 Aug 2022 15:02:32 +0800</lastBuildDate>
     
-	<atom:link href="https://71tong.github.io/Myblog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://71tong.github.io/Myblog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>https://71tong.github.io/Myblog/posts/hello/</link>
+      <link>http://71tong.github.io/Myblog/posts/hello/</link>
       <pubDate>Thu, 11 Aug 2022 15:02:32 +0800</pubDate>
       
-      <guid>https://71tong.github.io/Myblog/posts/hello/</guid>
+      <guid>http://71tong.github.io/Myblog/posts/hello/</guid>
       <description>Markdown 标题 共有6级标题
 H1 H2 H3 H4 H5 H6 段落 这是第一段，bulabulabula
 这是第二段，bulabulabula
@@ -26,37 +26,37 @@ H1 H2 H3 H4 H5 H6 段落 这是第一段，bulabulabula
     
     <item>
       <title>About</title>
-      <link>https://71tong.github.io/Myblog/about/</link>
+      <link>http://71tong.github.io/Myblog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://71tong.github.io/Myblog/about/</guid>
+      <guid>http://71tong.github.io/Myblog/about/</guid>
       <description>about</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://71tong.github.io/Myblog/archives/</link>
+      <link>http://71tong.github.io/Myblog/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://71tong.github.io/Myblog/archives/</guid>
+      <guid>http://71tong.github.io/Myblog/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://71tong.github.io/Myblog/search/</link>
+      <link>http://71tong.github.io/Myblog/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://71tong.github.io/Myblog/search/</guid>
+      <guid>http://71tong.github.io/Myblog/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://71tong.github.io/Myblog/posts/tong/</link>
+      <link>http://71tong.github.io/Myblog/posts/tong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://71tong.github.io/Myblog/posts/tong/</guid>
+      <guid>http://71tong.github.io/Myblog/posts/tong/</guid>
       <description>Markdown 标题 </description>
     </item>
     

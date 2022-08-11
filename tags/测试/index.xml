@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>测试 on ExampleSite</title>
-    <link>https://71tong.github.io/Myblog/tags/%E6%B5%8B%E8%AF%95/</link>
+    <link>http://71tong.github.io/Myblog/tags/%E6%B5%8B%E8%AF%95/</link>
     <description>Recent content in 测试 on ExampleSite</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://71tong.github.io/Myblog/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://71tong.github.io/Myblog/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>https://71tong.github.io/Myblog/posts/tong/</link>
+      <link>http://71tong.github.io/Myblog/posts/tong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://71tong.github.io/Myblog/posts/tong/</guid>
+      <guid>http://71tong.github.io/Myblog/posts/tong/</guid>
       <description>Markdown 标题 </description>
     </item>
     
