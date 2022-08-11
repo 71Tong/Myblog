@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://71tong.github.io/Myblog/sitemap.xml
