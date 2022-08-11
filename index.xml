@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ExampleSite</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on ExampleSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 11 Aug 2022 15:02:32 +0800</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://examplesite.com/posts/hello/</link>
+      <pubDate>Thu, 11 Aug 2022 15:02:32 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/hello/</guid>
+      <description>Markdown 标题 共有6级标题
+H1 H2 H3 H4 H5 H6 段落 这是第一段，bulabulabula
+这是第二段，bulabulabula
+引用 这是行内引用inline
+ 这是一个段引用和脚标的栗子
+— 出处1 表格    Name Age     Bob 27   Alice 23    代码块 import os print(&amp;#34;hello world&amp;#34;) 列表 有序列表  First item Second item Third item  无序列表  List item Another item And another item  KaTeX  Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\) Block math:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://examplesite.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/about/</guid>
+      <description>about</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://examplesite.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://examplesite.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://examplesite.com/posts/tong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/tong/</guid>
+      <description>Markdown 标题 </description>
+    </item>
+    
+  </channel>
+</rss>
